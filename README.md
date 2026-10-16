@@ -1,3 +1,5 @@
+> **This repo has moved.** The BottleCast website now lives in the BottleCast monorepo, in [`web/`](https://github.com/marctatham/bottlecast/tree/develop/web). This repo is archived and read-only.
+
 # BottleCast Website
 
 Welcome to the BottleCast website repository!
